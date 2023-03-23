@@ -6,6 +6,9 @@
 html{
     scroll-behavior: smooth;
 }
+body{
+    background-color: rgb(240,240,240);
+}
 .map{
     padding: 0px;
 }
